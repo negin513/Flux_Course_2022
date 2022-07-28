@@ -1,5 +1,5 @@
 
-# Welcome to the [2022 CTSM mini-tutorial](https://ncar.github.io/CTSM-Tutorial-2022/README.html)
+# Welcome to the [2022 CTSM mini-tutorial at Flux Course](https://ncar.github.io/CTSM-Tutorial-2022/README.html)
 
 [![Jupyter Build](https://shields.api-test.nl/github/workflow/status/NCAR/CTSM-Tutorial-2022/JupyterBook?label=JupyterBook&logo=GitHub&style=flat-square)](https://ncar.github.io/CTSM-Tutorial-2022/README.html)
 
