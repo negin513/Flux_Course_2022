@@ -4,7 +4,7 @@
 format: jb-book
 root: README
 parts:
-- caption: Getting Started
+- caption: Flux Course Materials
   chapters:
     - file: notebooks/Day0a_GitStarted.ipynb
     - file: notebooks/Day0b_NEON_Simulation_Tutorial.ipynb
