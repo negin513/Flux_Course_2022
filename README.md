@@ -25,9 +25,9 @@
 -->
 
 
-The materials and notebooks in this tutorial is published as a Jupyter book <a href="https://ncar.github.io/CTSM-Tutorial-2022/README.html" target="_blank"> here</a>.
 
-This repository includes materials for the <a href="https://github.com/ESCOMP/CTSM" target="_blank"> Community Terrestrial Systems Model (CTSM)</a>  mini-tutorial at Flux Course 2022 <a href="https://www.cesm.ucar.edu/events/2022/ctsm-tutorial/" target="_blank"> (link to agenda and resources)</a>. 
+
+
 
 These tutorials are designed as an introduction to running the Community Terrestrial Systems Model (CTSM).  We will go through three configurations that include running a:
 
@@ -46,6 +46,32 @@ This video will walk you through the initial steps of the tutorial, but the step
 
 
 The <a href="https://www.youtube.com/playlist?list=PLsqhY3nFckOF6VRh5gqpNAlHPgP3gLnXn" target="_blank">full set of lectures from the tutorial can be found here</a>, and will be posted after the tutorial.
+
+# Agenda
+
+
+The materials and notebooks in this tutorial is published as a Jupyter book <a href="https://ncar.github.io/CTSM-Tutorial-2022/README.html" target="_blank"> here</a>.
+
+This repository includes materials for the <a href="https://github.com/ESCOMP/CTSM" target="_blank"> Community Terrestrial Systems Model (CTSM)</a>  mini-tutorial at Flux Course 2022 <a href="https://www.cesm.ucar.edu/events/2022/ctsm-tutorial/" target="_blank"> (link to agenda and resources)</a>. 
+
+
+# Agenda Overview
+
+| Time      | Activity                                                                                  | Presenter(s)                                            |
+|-----------|------------------------------------------------------------------------------------------|-------------------------------------------------------|
+| 9:00      | Overview about ESMs and why ecology is needed                                            | Gordan Bonan                                           |
+| 10:00     | Ecological application at Niwot Ridge                                                    | Katya Jay                                              |
+| 10:20     | Break (coffee and snacks provided)                                                       | -                                                     |
+| 10:40     | Interactive Presentation: NCAR-NEON data                                                 | Danica Lombardozzi, Negin Sobhani, Chris Florian, Will Wieder |
+| 11:40     | Introduction to the NCAR-NEON tool                                                       | Danica Lombardozzi, Chris Florian, Negin Sobhani, Will Wieder |
+| 12:30     | Lunch                                                                                    | -                                                     |
+| 1:30      | Using CLM to model fluxes at NEON sites (interactive tutorial)                           | -                                                     |
+| 3:00      | Break (coffee and snacks provided)                                                       | -                                                     |
+| 4:00      | Summary/synthesis of tutorial                                                            | -                                                     |
+| 4:30      | Break                                                                                    | -                                                     |
+| 5:00      | Applications and development of Land Surface Models                                      | Gordan                                                |
+| 6:00      | Dinner    
+
 
 
 # Quick Start
